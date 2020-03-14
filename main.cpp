@@ -1,6 +1,8 @@
-#include <cstdio>
+
 #include <iostream>
 using namespace std;
+
+//Komentarz zmiany wersji.
 
 int uzupelnienie;
 void menuUzupelnienie()

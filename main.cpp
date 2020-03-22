@@ -6,6 +6,7 @@ using namespace std;
 //Test slacka
 //test 2
 //test 3
+//test4
 
 int uzupelnienie;
 void menuUzupelnienie()

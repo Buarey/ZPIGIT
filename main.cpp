@@ -3,6 +3,8 @@
 using namespace std;
 
 //Komentarz zmiany wersji.
+//Zmiana w kodzie na potrzeby slacka
+
 
 int uzupelnienie;
 void menuUzupelnienie()

@@ -4,6 +4,7 @@ using namespace std;
 
 //Test GITA
 //Test slacka
+//test 2
 
 int uzupelnienie;
 void menuUzupelnienie()
